@@ -2,7 +2,7 @@
 %define theme_name      systemtux
 %define name            %{base_name}-%{theme_name}
 %define version         1.3
-%define release         %mkrel 5
+%define release         %mkrel 6
 
 Name:	 %{name}
 Version: %{version}
