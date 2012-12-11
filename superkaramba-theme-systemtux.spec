@@ -61,3 +61,34 @@ fi
 
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.3-6mdv2010.0
++ Revision: 434192
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.3-5mdv2009.0
++ Revision: 261241
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.3-4mdv2009.0
++ Revision: 253760
+- rebuild
+
+* Sun Mar 02 2008 Nicolas Lécureuil <neoclust@mandriva.org> 1.3-2mdv2008.1
++ Revision: 177560
+- [BUGFIX] Fix uninstall ( thanks misc) (Bug #22642)
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Dec 17 2007 Thierry Vignaud <tvignaud@mandriva.com> 1.3-1mdv2008.1
++ Revision: 128071
+- kill re-definition of %%buildroot on Pixel's request
+- use %%mkrel
+
+
+* Sun Mar 06 2005 Sebastien Savarin <plouf@mandriva.org> 1.3-1mdk
+-First Mandriva Linux
+
