@@ -3,7 +3,7 @@
 Summary:	Monitoring theme for superkaramba
 Name:		superkaramba-theme-%{theme_name}
 Version:	1.3
-Release:	7
+Release:	8
 License:	GPL
 Group:		Monitoring
 Url:		http://kde-look.org/content/show.php?content=16265
